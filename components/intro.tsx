@@ -8,7 +8,7 @@ export default function Intro() {
         <h1 className='title no-underline'>Hey, I&#39;m Gurmit.</h1>
         <p className='mt-3 font-light text-muted-foreground'>
           I&#39;m a software engineer based in Toronto, Canada. I&#39;m
-          passionate about learning new technologies.
+          passionate about web development and data engineering.
         </p>
       </div>
       <div className='relative'>
